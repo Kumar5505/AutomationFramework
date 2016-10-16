@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/03 SeleniumCodes &amp; Files/BackUp/jarsss/cglib-nodep-3.2.4.jar"/>
+	<classpathentry kind="lib" path="C:/03 SeleniumCodes &amp; Files/BackUp/jarsss/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/03 SeleniumCodes &amp; Files/BackUp/jarsss/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/03 SeleniumCodes &amp; Files/BackUp/jarsss/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/03 SeleniumCodes &amp; Files/BackUp/jarsss/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/03 SeleniumCodes &amp; Files/BackUp/jarsss/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="C:/03 SeleniumCodes &amp; Files/BackUp/jarsss/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/03 SeleniumCodes &amp; Files/BackUp/jarsss/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/03 SeleniumCodes &amp; Files/BackUp/jarsss/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/03 SeleniumCodes &amp; Files/BackUp/jarsss/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="C:/03 SeleniumCodes &amp; Files/BackUp/jarsss/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/03 SeleniumCodes &amp; Files/BackUp/jarsss/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/03 SeleniumCodes &amp; Files/BackUp/jarsss/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/03 SeleniumCodes &amp; Files/BackUp/jarsss/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/03 SeleniumCodes &amp; Files/BackUp/jarsss/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/03 SeleniumCodes &amp; Files/BackUp/jarsss/log4j-1.2-api-2.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/03 SeleniumCodes &amp; Files/BackUp/jarsss/log4j-1.2-api-2.6.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/03 SeleniumCodes &amp; Files/BackUp/jarsss/log4j-1.2-api-2.6.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/03 SeleniumCodes &amp; Files/BackUp/jarsss/log4j-api-2.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/03 SeleniumCodes &amp; Files/BackUp/jarsss/log4j-api-2.6.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/03 SeleniumCodes &amp; Files/BackUp/jarsss/log4j-api-2.6.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/03 SeleniumCodes &amp; Files/BackUp/jarsss/log4j-core-2.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/03 SeleniumCodes &amp; Files/BackUp/jarsss/log4j-core-2.6.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/03 SeleniumCodes &amp; Files/BackUp/jarsss/log4j-core-2.6.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/03 SeleniumCodes &amp; Files/BackUp/jarsss/log4j-core-2.6.2-tests.jar"/>
+	<classpathentry kind="lib" path="C:/03 SeleniumCodes &amp; Files/BackUp/jarsss/log4j-flume-ng-2.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/03 SeleniumCodes &amp; Files/BackUp/jarsss/log4j-flume-ng-2.6.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/03 SeleniumCodes &amp; Files/BackUp/jarsss/log4j-flume-ng-2.6.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/03 SeleniumCodes &amp; Files/BackUp/jarsss/log4j-iostreams-2.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/03 SeleniumCodes &amp; Files/BackUp/jarsss/log4j-iostreams-2.6.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/03 SeleniumCodes &amp; Files/BackUp/jarsss/log4j-iostreams-2.6.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/03 SeleniumCodes &amp; Files/BackUp/jarsss/log4j-jcl-2.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/03 SeleniumCodes &amp; Files/BackUp/jarsss/log4j-jcl-2.6.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/03 SeleniumCodes &amp; Files/BackUp/jarsss/log4j-jcl-2.6.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/03 SeleniumCodes &amp; Files/BackUp/jarsss/log4j-jmx-gui-2.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/03 SeleniumCodes &amp; Files/BackUp/jarsss/log4j-jmx-gui-2.6.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/03 SeleniumCodes &amp; Files/BackUp/jarsss/log4j-jmx-gui-2.6.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/03 SeleniumCodes &amp; Files/BackUp/jarsss/log4j-jul-2.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/03 SeleniumCodes &amp; Files/BackUp/jarsss/log4j-jul-2.6.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/03 SeleniumCodes &amp; Files/BackUp/jarsss/log4j-jul-2.6.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/03 SeleniumCodes &amp; Files/BackUp/jarsss/log4j-nosql-2.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/03 SeleniumCodes &amp; Files/BackUp/jarsss/log4j-nosql-2.6.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/03 SeleniumCodes &amp; Files/BackUp/jarsss/log4j-nosql-2.6.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/03 SeleniumCodes &amp; Files/BackUp/jarsss/log4j-slf4j-impl-2.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/03 SeleniumCodes &amp; Files/BackUp/jarsss/log4j-slf4j-impl-2.6.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/03 SeleniumCodes &amp; Files/BackUp/jarsss/log4j-slf4j-impl-2.6.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/03 SeleniumCodes &amp; Files/BackUp/jarsss/log4j-taglib-2.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/03 SeleniumCodes &amp; Files/BackUp/jarsss/log4j-taglib-2.6.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/03 SeleniumCodes &amp; Files/BackUp/jarsss/log4j-taglib-2.6.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/03 SeleniumCodes &amp; Files/BackUp/jarsss/log4j-web-2.6.2.jar"/>
+	<classpathentry kind="lib" path="C:/03 SeleniumCodes &amp; Files/BackUp/jarsss/log4j-web-2.6.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/03 SeleniumCodes &amp; Files/BackUp/jarsss/log4j-web-2.6.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/03 SeleniumCodes &amp; Files/BackUp/jarsss/mail.jar"/>
+	<classpathentry kind="lib" path="C:/03 SeleniumCodes &amp; Files/BackUp/jarsss/netty-3.5.7.Final.jar"/>
+	<classpathentry kind="lib" path="C:/03 SeleniumCodes &amp; Files/BackUp/jarsss/phantomjsdriver-1.2.1.jar"/>
+	<classpathentry kind="lib" path="C:/03 SeleniumCodes &amp; Files/BackUp/jarsss/poi-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="C:/03 SeleniumCodes &amp; Files/BackUp/jarsss/poi-examples-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="C:/03 SeleniumCodes &amp; Files/BackUp/jarsss/poi-excelant-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="C:/03 SeleniumCodes &amp; Files/BackUp/jarsss/poi-ooxml-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="C:/03 SeleniumCodes &amp; Files/BackUp/jarsss/poi-ooxml-schemas-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="C:/03 SeleniumCodes &amp; Files/BackUp/jarsss/poi-scratchpad-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="C:/03 SeleniumCodes &amp; Files/BackUp/jarsss/selenium-server-standalone-2.53.1.jar"/>
+	<classpathentry kind="lib" path="C:/03 SeleniumCodes &amp; Files/JarFiles/poi-bin-3.14/poi-3.14/ooxml-lib/curvesapi-1.03.jar"/>
+	<classpathentry kind="lib" path="C:/03 SeleniumCodes &amp; Files/JarFiles/poi-bin-3.14/poi-3.14/ooxml-lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

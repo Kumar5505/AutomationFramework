@@ -1,0 +1,41 @@
+12/08/2016 14:50:01 devpinoyLogger Executing the test Navigate
+12/08/2016 14:50:01 devpinoyLogger Executing Navigate
+12/08/2016 14:50:05 devpinoyLogger ***Result of execution -- Pass
+12/08/2016 14:50:05 devpinoyLogger Error came
+12/08/2016 14:50:05 devpinoyLogger ######################Navigate --- Pass
+12/08/2016 14:50:05 devpinoyLogger Executing the test LoginTest
+12/08/2016 14:50:05 devpinoyLogger Executing wait Keyword
+12/08/2016 14:50:06 devpinoyLogger ***Result of execution -- Pass
+12/08/2016 14:50:06 devpinoyLogger Executing input Keyword
+12/08/2016 14:50:07 devpinoyLogger ***Result of execution -- Pass
+12/08/2016 14:50:07 devpinoyLogger Executing clickLink
+12/08/2016 14:50:08 devpinoyLogger ***Result of execution -- Pass
+12/08/2016 14:50:08 devpinoyLogger Validating input Keyword
+12/08/2016 14:50:08 devpinoyLogger ***Result of execution -- Pass
+12/08/2016 14:50:08 devpinoyLogger Executing input Keyword
+12/08/2016 14:50:09 devpinoyLogger ***Result of execution -- Pass
+12/08/2016 14:50:09 devpinoyLogger Executing clickLink
+12/08/2016 14:50:10 devpinoyLogger ***Result of execution -- Pass
+12/08/2016 14:50:10 devpinoyLogger Executing clickLink
+12/08/2016 14:50:15 devpinoyLogger ***Result of execution -- Pass
+12/08/2016 14:50:15 devpinoyLogger Executing clickLink
+12/08/2016 14:50:16 devpinoyLogger ***Result of execution -- Pass
+12/08/2016 14:50:16 devpinoyLogger Executing clickLink
+12/08/2016 14:50:19 devpinoyLogger ***Result of execution -- Pass
+12/08/2016 14:50:19 devpinoyLogger Executing clickLink
+12/08/2016 14:50:19 devpinoyLogger ***Result of execution -- Pass
+12/08/2016 14:50:19 devpinoyLogger Executing input Keyword
+12/08/2016 14:50:20 devpinoyLogger ***Result of execution -- Pass
+12/08/2016 14:50:20 devpinoyLogger Validating input Keyword
+12/08/2016 14:50:20 devpinoyLogger ***Result of execution -- Pass
+12/08/2016 14:50:20 devpinoyLogger Executing clickLink
+12/08/2016 14:50:20 devpinoyLogger ***Result of execution -- Pass
+12/08/2016 14:50:20 devpinoyLogger Executing input Keyword
+12/08/2016 14:50:21 devpinoyLogger ***Result of execution -- Pass
+12/08/2016 14:50:21 devpinoyLogger Executing wait Keyword
+12/08/2016 14:50:21 devpinoyLogger ***Result of execution -- Pass
+12/08/2016 14:50:21 devpinoyLogger Executing clickLink
+12/08/2016 14:50:22 devpinoyLogger ***Result of execution -- Pass
+12/08/2016 14:50:22 devpinoyLogger Validating input Keyword
+12/08/2016 14:50:22 devpinoyLogger ***Result of execution -- Fail
+12/08/2016 14:50:23 devpinoyLogger ######################LoginTest --- Fail
