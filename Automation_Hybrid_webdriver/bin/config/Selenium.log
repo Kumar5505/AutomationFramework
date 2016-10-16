@@ -1,0 +1,41 @@
+14:50:01,730 DEBUG devpinoyLogger:180 - Executing the test Navigate
+14:50:01,779 DEBUG devpinoyLogger:67 - Executing Navigate
+14:50:05,941 DEBUG devpinoyLogger:198 - ***Result of execution -- Pass
+14:50:05,947 DEBUG devpinoyLogger:244 - Error came
+14:50:05,948 DEBUG devpinoyLogger:253 - ######################Navigate --- Pass
+14:50:05,977 DEBUG devpinoyLogger:180 - Executing the test LoginTest
+14:50:05,984 DEBUG devpinoyLogger:311 - Executing wait Keyword
+14:50:06,537 DEBUG devpinoyLogger:198 - ***Result of execution -- Pass
+14:50:06,544 DEBUG devpinoyLogger:83 - Executing input Keyword
+14:50:07,891 DEBUG devpinoyLogger:198 - ***Result of execution -- Pass
+14:50:07,896 DEBUG devpinoyLogger:169 - Executing clickLink
+14:50:08,160 DEBUG devpinoyLogger:198 - ***Result of execution -- Pass
+14:50:08,162 DEBUG devpinoyLogger:120 - Validating input Keyword
+14:50:08,677 DEBUG devpinoyLogger:198 - ***Result of execution -- Pass
+14:50:08,683 DEBUG devpinoyLogger:83 - Executing input Keyword
+14:50:09,637 DEBUG devpinoyLogger:198 - ***Result of execution -- Pass
+14:50:09,644 DEBUG devpinoyLogger:169 - Executing clickLink
+14:50:10,428 DEBUG devpinoyLogger:198 - ***Result of execution -- Pass
+14:50:10,433 DEBUG devpinoyLogger:169 - Executing clickLink
+14:50:15,630 DEBUG devpinoyLogger:198 - ***Result of execution -- Pass
+14:50:15,634 DEBUG devpinoyLogger:169 - Executing clickLink
+14:50:16,667 DEBUG devpinoyLogger:198 - ***Result of execution -- Pass
+14:50:16,670 DEBUG devpinoyLogger:169 - Executing clickLink
+14:50:19,505 DEBUG devpinoyLogger:198 - ***Result of execution -- Pass
+14:50:19,508 DEBUG devpinoyLogger:169 - Executing clickLink
+14:50:19,698 DEBUG devpinoyLogger:198 - ***Result of execution -- Pass
+14:50:19,705 DEBUG devpinoyLogger:83 - Executing input Keyword
+14:50:20,681 DEBUG devpinoyLogger:198 - ***Result of execution -- Pass
+14:50:20,684 DEBUG devpinoyLogger:120 - Validating input Keyword
+14:50:20,731 DEBUG devpinoyLogger:198 - ***Result of execution -- Pass
+14:50:20,733 DEBUG devpinoyLogger:169 - Executing clickLink
+14:50:20,829 DEBUG devpinoyLogger:198 - ***Result of execution -- Pass
+14:50:20,831 DEBUG devpinoyLogger:83 - Executing input Keyword
+14:50:21,447 DEBUG devpinoyLogger:198 - ***Result of execution -- Pass
+14:50:21,451 DEBUG devpinoyLogger:311 - Executing wait Keyword
+14:50:21,463 DEBUG devpinoyLogger:198 - ***Result of execution -- Pass
+14:50:21,465 DEBUG devpinoyLogger:169 - Executing clickLink
+14:50:22,465 DEBUG devpinoyLogger:198 - ***Result of execution -- Pass
+14:50:22,472 DEBUG devpinoyLogger:120 - Validating input Keyword
+14:50:22,821 DEBUG devpinoyLogger:198 - ***Result of execution -- Fail
+14:50:23,145 DEBUG devpinoyLogger:253 - ######################LoginTest --- Fail
